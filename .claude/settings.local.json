@@ -1,0 +1,10 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(node index.js -a list)",
+      "Bash(node index.js -a get -i 05olLMgyVQdWRwgKfg5J6)",
+      "Bash(node index.js -a add -n Mango -e mango@gmail.com -p 322-22-22)",
+      "Bash(node index.js -a remove -i qdggE76Jtbfd9eWJHrssH)"
+    ]
+  }
+}
